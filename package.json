@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Written on top of default implementation of FileSystem. Includes extra functionality.",
   "type": "module",
-  "main": "main.mjs",
+  "main": "file-system.main.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
