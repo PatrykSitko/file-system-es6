@@ -2,6 +2,7 @@
   "name": "file-system-es6",
   "version": "1.0.1",
   "description": "Written on top of default implementation of FileSystem. Includes extra functionality.",
+  "type": "module",
   "main": "main.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +15,12 @@
     "JavaScript",
     "ES6",
     "FS",
-    "FileSystem"
+    "FileSystem",
+    "EXECUTE",
+    "EXEC",
+    "PATH",
+    "UTILITY",
+    "UTIL"
   ],
   "author": "Patryk Sitko",
   "license": "MIT",
