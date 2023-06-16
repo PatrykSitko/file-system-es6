@@ -1,0 +1,25 @@
+{
+  "name": "file-system-es6",
+  "version": "1.0.0",
+  "description": "Written on top of default implementation of FileSystem. Includes extra functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrykSitko/FileSystem.js.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "ES6",
+    "FS",
+    "FileSystem"
+  ],
+  "author": "Patryk Sitko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PatrykSitko/FileSystem.js/issues"
+  },
+  "homepage": "https://github.com/PatrykSitko/FileSystem.js#readme"
+}
